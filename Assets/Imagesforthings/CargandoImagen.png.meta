@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: c636d04aed0ab1643a5b891122eddadc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3896207309788255585
+    second: CargandoImagen_0
+  - first:
+      213: -5538584181659798225
+    second: CargandoImagen_1
+  - first:
+      213: 6846117404212521261
+    second: CargandoImagen_2
+  - first:
+      213: 3340457404011801783
+    second: CargandoImagen_3
+  - first:
+      213: 8246273193368256344
+    second: CargandoImagen_4
+  - first:
+      213: -3026625401427477596
+    second: CargandoImagen_5
+  - first:
+      213: -3637936284787353706
+    second: CargandoImagen_6
+  - first:
+      213: 3443419721856162988
+    second: CargandoImagen_7
+  - first:
+      213: -2883547361683260296
+    second: CargandoImagen_8
+  - first:
+      213: -2168516096469226424
+    second: CargandoImagen_9
+  - first:
+      213: -1144089138411473808
+    second: CargandoImagen_10
+  - first:
+      213: -1374094730622310435
+    second: CargandoImagen_11
+  - first:
+      213: -9010913221685716334
+    second: CargandoImagen_12
+  - first:
+      213: 8282463205708503610
+    second: CargandoImagen_13
+  - first:
+      213: 1364205266073905347
+    second: CargandoImagen_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CargandoImagen_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 615
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6ac04814ede9c0800000000000000
+      internalID: -3896207309788255585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 651
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f19d080ff223b0800000000000000
+      internalID: -5538584181659798225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 665
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e4b0c18b420f50800000000000000
+      internalID: 6846117404212521261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 651
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc62797f40bb5e20800000000000000
+      internalID: 3340457404011801783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 616
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f7a8b57c5a07270800000000000000
+      internalID: 8246273193368256344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 558
+        width: 105
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbdbfab344ff5d0800000000000000
+      internalID: -3026625401427477596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 558
+        width: 106
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697debd3934738dc0800000000000000
+      internalID: -3637936284787353706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 481
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9fc53efb79cf20800000000000000
+      internalID: 3443419721856162988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 480
+        width: 106
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cbad5c3f49bf7d0800000000000000
+      internalID: -2883547361683260296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 393
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c2c3c7912e7e1e0800000000000000
+      internalID: -2168516096469226424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 329
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074f9918df06f10f0800000000000000
+      internalID: -1144089138411473808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 297
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7658d6f1c3eece0800000000000000
+      internalID: -1374094730622310435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 297
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a5d8faa2ec2f280800000000000000
+      internalID: -9010913221685716334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 333
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9f79376831f270800000000000000
+      internalID: 8282463205708503610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoImagen_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 394
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c86d0d2671aee210800000000000000
+      internalID: 1364205266073905347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CargandoImagen_0: -3896207309788255585
+      CargandoImagen_1: -5538584181659798225
+      CargandoImagen_10: -1144089138411473808
+      CargandoImagen_11: -1374094730622310435
+      CargandoImagen_12: -9010913221685716334
+      CargandoImagen_13: 8282463205708503610
+      CargandoImagen_14: 1364205266073905347
+      CargandoImagen_2: 6846117404212521261
+      CargandoImagen_3: 3340457404011801783
+      CargandoImagen_4: 8246273193368256344
+      CargandoImagen_5: -3026625401427477596
+      CargandoImagen_6: -3637936284787353706
+      CargandoImagen_7: 3443419721856162988
+      CargandoImagen_8: -2883547361683260296
+      CargandoImagen_9: -2168516096469226424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
