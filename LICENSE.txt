@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Universidad de Málaga
+Copyright (c) 2026 Antonio Machuca Guerra & Universidad de Málaga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
